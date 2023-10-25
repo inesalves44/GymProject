@@ -18,8 +18,10 @@ The gym's requirements include:
 
 4. **Comprehensive Data Analytics:** Create a data analytics system that aggregates and analyzes data collected from the app, providing valuable insights to help optimize gym operations and improve the overall experience for students.
 
-## Power Platform Solutions
+## The Solution: Overview
 
 So to mitigate the problems the gym is facing we created the following solutions:
 
 1) Four Dataverse tables: One for Students, one for StudentsLogIn, one For Trainers, one for Classes and one Fact Table. To learn more about Dataverse refer [here](https://github.com/inesalves44/GymProject/blob/main/Dataverse/README_DATAVERSE.md)
+2) A power apps canvas app that lets the user log in and choose a class! It also let's the student classify the class. More information on power apps [here]()
+3) 
