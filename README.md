@@ -23,8 +23,11 @@ The gym's requirements include:
 So to mitigate the problems the gym is facing we created the following solutions:
 
 1) **Dataverse Tables**: We have established four key Dataverse tables, each serving a specific purpose: one for Students, one for Student Logins, one for Trainers, one for Classes, and a Fact Table. You can find detailed information about Dataverse [here](https://github.com/inesalves44/GymProject/blob/main/Dataverse/README_DATAVERSE.md)
+  
 2) **Power Apps Canvas App**: Our Power Apps Canvas App enables users to log in and select their desired classes. Additionally, it allows students to provide class feedback. You can explore the features and benefits of our Power Apps solution [here](https://github.com/inesalves44/GymProject/blob/main/PowerApps/README_POWER_APPS.md)
+
 3) **Power Automate Flows**: We've designed two Power Automate flows for email notifications, enhancing communication and efficiency. Furthermore, three additional flows have been created to enhance backend operations. To learn more about Power Automate and its role in our solutions, please visit [here](https://github.com/inesalves44/GymProject/blob/main/PowerAutomate/README_POWER_AUTOMATE.md)
+
 4) **Power BI Dashboard and Report**: To facilitate data-driven decision-making for our management team, we've developed a comprehensive Power BI Dashboard and Report. For an in-depth understanding of Power BI's contribution to our efforts, click [here](https://github.com/inesalves44/GymProject/blob/main/PowerBI/README_POWER_BI.md)
 
 ## For Future Reference
