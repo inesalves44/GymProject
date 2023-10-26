@@ -20,7 +20,7 @@ The gym's requirements include:
 
 ## The Solution: Overview
 
-So to mitigate the problems the gym is facing we created the following solutions:
+To address the challenges faced by the gym, we have implemented the following solutions:
 
 1) **Dataverse Tables**: We have established four key Dataverse tables, each serving a specific purpose: one for Students, one for Student Logins, one for Trainers, one for Classes, and a Fact Table. You can find detailed information about Dataverse [here](https://github.com/inesalves44/GymProject/blob/main/Dataverse/README_DATAVERSE.md)
   
