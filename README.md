@@ -2,7 +2,7 @@
 
 This Project was made in collaboration with: Carolina, Guilherme, Luís and Sara. This project was made for the Upskill course of Power Platform!
 
-## First Part: The Problem: Overview
+## First Part
 
 The gym is embarking on a transformative journey to enhance its operations and member experience. This includes the implementation of a mobile application to regulate member access, gain insights into teacher performance, and discern the popularity of different classes. Furthermore, the gym aims to comprehensively digitize its operations, as its current technology infrastructure is virtually non-existent.
 
@@ -30,7 +30,7 @@ To address the challenges faced by the gym, we have implemented the following so
 
 4) **Power BI Dashboard and Report**: To facilitate data-driven decision-making for our management team, we've developed a comprehensive Power BI Dashboard and Report. For an in-depth understanding of Power BI's contribution to our efforts, click [here](https://github.com/inesalves44/GymProject/blob/main/PowerBI/README_POWER_BI.md)
 
-## Second Part: The Problem: Overview
+## Second Part
 
 After a great success with the app the company asked the team to create a website that contained a chatbot!
 Also the company needed help to choose a new location, product to sell and what new sport to add.
