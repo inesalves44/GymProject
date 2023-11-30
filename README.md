@@ -1,6 +1,6 @@
 # Power Platform: Power Lift
 
-This Project was made in collaboration with: Carolina, Guilherme, Luís and Sara. This project was made for the Upskill course of Power Platform!
+This Project was made in collaboration with: [Carolina](https://github.com/CarolzFig), [Guilherme](https://github.com/GuiBelchior), [Luís](https://github.com/luigir0) and [Sara](https://github.com/SaraLousada). This project was made for the Upskill course of Power Platform!
 
 ## First Part
 
@@ -45,6 +45,9 @@ To address the challenges faced by the gym, we have implemented the following so
 3. **Market Reasearch:** Create a data analytics research that helps to answer the following questions: 1) where to open the new gym?; 2) what to sell in the gym?; 3) what modality should we include?.
 
 ### The Solution: Overview
-
+Using the previosly created Dtaverse table our solutions passes to:
+1) **Power Pages Website**:
+2) **A Copilot chatbot**:
+3) **A POwer Bi dashboard**
 
 ## For Future Reference
