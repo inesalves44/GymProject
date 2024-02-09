@@ -1,4 +1,4 @@
-# Power Platform: Power Lift
+# Power Platform: Power Lift -> In Construction 🚧
 
 This Project was made in collaboration with: [Carolina](https://github.com/CarolzFig), [Guilherme](https://github.com/GuiBelchior), [Luís](https://github.com/luigir0) and [Sara](https://github.com/SaraLousada). This project was made for the Upskill course of Power Platform!
 
@@ -48,6 +48,6 @@ To address the challenges faced by the gym, we have implemented the following so
 Using the previosly created Dtaverse table our solutions passes to:
 1) **Power Pages Website**:
 2) **A Copilot chatbot**:
-3) **A POwer Bi dashboard**
+3) **A Power Bi dashboard**
 
 ## For Future Reference
