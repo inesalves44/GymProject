@@ -22,7 +22,7 @@ The gym's requirements include:
 
 To address the challenges faced by the gym, we have implemented the following solutions:
 
-1) **Dataverse Tables**: We have established four key Dataverse tables, each serving a specific purpose: one for Students, one for Student Logins, one for Trainers, one for Classes, and a Fact Table. You can find detailed information about Dataverse [here](https://github.com/inesalves44/GymProject/PartOne/Dataverse/README_DATAVERSE.md)
+1) **Dataverse Tables**: We have established four key Dataverse tables, each serving a specific purpose: one for Students, one for Student Logins, one for Trainers, one for Classes, and a Fact Table. You can find detailed information about Dataverse [here](https://github.com/inesalves44/GymProject/blob/6806db109e97b0c814f18497a810f0995c81326e/PartOne/Dataverse/README_DATAVERSE.md)
   
 2) **Power Apps Canvas App**: Our Power Apps Canvas App enables users to log in and select their desired classes. Additionally, it allows students to provide class feedback. You can explore the features and benefits of our Power Apps solution [here](https://github.com/inesalves44/GymProject//PartOne/PowerApps/README_POWER_APPS.md)
 
